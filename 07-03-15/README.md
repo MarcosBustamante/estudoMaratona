@@ -1,4 +1,4 @@
-# Estudo para maratona 07-03-2014
+# Ementa
 
 * Pessoas:
     * Marcos Bustamante (MarcosBustamante)
