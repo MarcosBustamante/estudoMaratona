@@ -1,21 +1,16 @@
-# Estudo 07-03-2015
+# Estudo 14-03-2015
 
 * Pessoas:
     * Marcos Bustamante (MarcosBustamante)
     * Erich Rodrigues (eferrares)
+    * Marcos Costa (marcospy)
 
 * Conteúdos:
-    * Dijkstra
-    * Arvore:
-        * Infixa
-        * Posfixa
-        * Prefixa
-        * Profundidade
-
-* Próxima reunião:
-    * Bfs
-    * Dfs
     * Floyd Warshall
     * Kruskal
+    * Bfs
+
+* Próxima reunião:
+    * Dfs
     * Prim
     * Mochila binária
